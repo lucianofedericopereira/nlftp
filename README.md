@@ -20,8 +20,7 @@ or other `nftp` clients.)
 
 > **Status: working multi-protocol client.**
 > `nlftp` connects, lists, transfers, and mirrors over **FTP/FTPS**, **HTTP/HTTPS**,
-> and **local files**, with **SFTP** in beta. See [`docs/PLAN.md`](docs/PLAN.md)
-> for the roadmap and what's verified.
+> and **local files**, with **SFTP** in beta.
 
 ## Script-only (no interactive mode)
 
