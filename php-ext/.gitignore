@@ -1,0 +1,6 @@
+# built shared libraries are platform-specific — build per target, don't commit
+build/*.so
+build/*.dylib
+build/*.dll
+# nim C cache
+nimcache/

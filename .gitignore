@@ -1,0 +1,23 @@
+# Build artifacts
+/bin/
+nimcache/
+*.exe
+*.o
+*.a
+
+# Nimble
+/nimbledeps/
+nimble.develop
+nimble.paths
+
+
+# Editor / OS noise
+.DS_Store
+*.swp
+*~
+.vscode/
+
+# Test/coverage output
+/tests/**/*.bin
+testresults/
+*.coverage
